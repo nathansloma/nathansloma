@@ -1,5 +1,5 @@
 # 💫 About Me:
-⚡Senior Software Engineer always in the clouds💬<br>🔭 I’m currently working on fun portfolio projects. <br>🌱 I’m always learning<br>
+⚡Full Stack Engineer always in the clouds💬<br>🔭 I’m currently working on fun portfolio projects. <br>🌱 I’m always learning<br>
 
 
 ## 🌐 Socials:
